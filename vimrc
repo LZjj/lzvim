@@ -86,7 +86,6 @@ set foldlevel=10
 "gf需要src根路径，小路径不行，用的多;
 "grep 使用自定义命令，不参与path制订
 "综上所述，只加根src路径
-"todo: 尝试自动向上遍历DEPS并设置为src
 set path+=~/code2303_4/src/
 
 
